@@ -1,7 +1,12 @@
 ![MasterHead](https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1632&q=80)
 <h1 align="center">Hi there 👋, I'm Nikhil Saini</h1>
+
+
 <h3 align="center">Front-end web developer with a passion for creating attractive and intuitive user interfaces.</h3>
-<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b9bi5j4j3cv6h3bez8xyo55zx7s3pssaq9xtz8wz&rid=giphy.gif&ct=g" width="400">
+<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47b9bi5j4j3cv6h3bez8xyo55zx7s3pssaq9xtz8wz&rid=giphy.gif&ct=g" width="400" height="250">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsaini99&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsaini99" /> </p>
 
 - 🔭 I’m currently working on **Social Media Clone App**
 
